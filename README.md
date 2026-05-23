@@ -49,7 +49,7 @@
 
 1.  **Clone Repositori Ini:**
     ```bash
-    git clone [https://github.com/aangmaulana57/Restoran_Fiktif.git](https://github.com/aangmaulana57/Restoran_Fiktif.git)
+    git clone [https://github.com/k0yocabe/Restoran_Fiktif.git](https://github.com/k0yocabe/Restoran_Fiktif.git)
     ```
 2.  **Buka di Android Studio:**
     * Buka Android Studio, pilih **File > Open**, lalu arahkan ke folder hasil clone.
